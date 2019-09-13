@@ -1,1 +1,5 @@
-console.log([9,20,15,7].slice(-3));
+var a = [];
+
+a.push(1, 2, 3)
+
+console.log(a.length)
